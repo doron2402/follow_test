@@ -1,0 +1,30 @@
+{
+  "name": "follow_test",
+  "version": "0.0.1",
+  "description": "listen to couch db using follow",
+  "main": "index.js",
+  "engine": {
+    "node": "0.10.21",
+    "npm": "1.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/follow_test.git"
+  },
+  "keywords": [
+    "couchdb",
+    "listen",
+    "follow"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/follow_test/issues"
+  },
+  "dependencies": {
+    "follow": "~0.10.1"
+  }
+}
