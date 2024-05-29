@@ -25,6 +25,6 @@
     "url": "https://github.com/doron2402/follow_test/issues"
   },
   "dependencies": {
-    "follow": "~0.10.1"
+    "follow": "~0.11.4"
   }
 }
